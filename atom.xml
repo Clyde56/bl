@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://clyde56.github.io/bl.github.io</id>
     <title>Notice</title>
-    <updated>2024-04-11T07:33:36.351Z</updated>
+    <updated>2024-04-11T07:34:09.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://clyde56.github.io/bl.github.io"/>
     <link rel="self" href="https://clyde56.github.io/bl.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://clyde56.github.io/bl.github.io/images/avatar.png</logo>
     <icon>https://clyde56.github.io/bl.github.io/favicon.ico</icon>
     <rights>All rights reserved 2024, Notice</rights>
+    <entry>
+        <title type="html"><![CDATA[ana;hjg]]></title>
+        <id>https://clyde56.github.io/bl.github.io/post/anahjg/</id>
+        <link href="https://clyde56.github.io/bl.github.io/post/anahjg/">
+        </link>
+        <updated>2024-04-11T07:33:53.000Z</updated>
+        <content type="html"><![CDATA[<p>csdgv.;;'fdgsgf</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[updating]]></title>
         <id>https://clyde56.github.io/bl.github.io/post/updating/</id>
