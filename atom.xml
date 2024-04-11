@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://clyde56.github.io/bl.github.io</id>
+    <id>https://blog.supvip.top</id>
     <title>Gridea</title>
-    <updated>2024-04-11T06:44:09.521Z</updated>
+    <updated>2024-04-11T07:08:17.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://clyde56.github.io/bl.github.io"/>
-    <link rel="self" href="http://clyde56.github.io/bl.github.io/atom.xml"/>
+    <link rel="alternate" href="https://blog.supvip.top"/>
+    <link rel="self" href="https://blog.supvip.top/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>http://clyde56.github.io/bl.github.io/images/avatar.png</logo>
-    <icon>http://clyde56.github.io/bl.github.io/favicon.ico</icon>
+    <logo>https://blog.supvip.top/images/avatar.png</logo>
+    <icon>https://blog.supvip.top/favicon.ico</icon>
     <rights>All rights reserved 2024, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[new work]]></title>
-        <id>http://clyde56.github.io/bl.github.io/post/new-work/</id>
-        <link href="http://clyde56.github.io/bl.github.io/post/new-work/">
+        <id>https://blog.supvip.top/post/new-work/</id>
+        <link href="https://blog.supvip.top/post/new-work/">
         </link>
         <updated>2024-04-11T06:34:58.000Z</updated>
         <content type="html"><![CDATA[<p>working......</p>
@@ -21,15 +21,15 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://clyde56.github.io/bl.github.io/post/hello-gridea/</id>
-        <link href="http://clyde56.github.io/bl.github.io/post/hello-gridea/">
+        <id>https://blog.supvip.top/post/hello-gridea/</id>
+        <link href="https://blog.supvip.top/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、😙😙😙知识、笔记、创意... ...</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、😙😙😙知识、笔记、创意... ...</p>
 <!-- more -->
 <p><a href="https://github.com/getgridea/gridea">Github</a><br>
 <a href="https://gridea.dev/">Gridea 主页</a><br>
